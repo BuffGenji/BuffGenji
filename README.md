@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web project including front and back end, that Implements JS, CSS and HTML<br>👯 I’m looking to participate in daily challenges to grow my confidence and problem-solving skills <br>🤝 I’m looking for help in terms of community so that I may learn more about the languages and of the practicallyty of each one in real life scenarios<br>🌱 I’m currently learning Python, Java and will be learning about C++ in the near futute<br>⚡ For fun and some regular traiining I've started doing some problems on leetcode.com
+🔭 I’m currently working on a web project including front and back end, that Implements JS, CSS and HTML<br>👯 I’m looking to participate in daily challenges to grow my confidence and problem-solving skills<br>🌱 I’m currently learning Python, Java and will be learning about C++ in the near futute<br>⚡ For fun and some regular traiining I've started doing some problems on leetcode.com
 
 
 ## 🌐 Socials:
